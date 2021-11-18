@@ -7,8 +7,6 @@ Working on apps such as [BackForWeekend.com](https://www.backfortheweekend.com) 
 
 A curious and motivated professional with excellent problem solving skills, willing to work my butt off for your company!)
 
-Transferrable professional skills + increasing technical skills + passion for problem solving and learning every day. 
-
 ## How I can add value to your company 💪
 
 **Fullstack developer**🌈
@@ -16,18 +14,18 @@ Transferrable professional skills + increasing technical skills + passion for pr
  * SQL database experience
  * Very curious
 
-Experience working with Oracle Databases and Data Analysis 💻
+**Transferable Professional Skills** 💻
+* Experience working with Oracle Databases and Data Analysis
+* I have developed a reporting system based on two oracle databases and used the data to create a Power BI dashboard system.
+* Setup-up and trained collegues on agile project management practices. 
 
-I have developed a reporting system based on two oracle databases and used the data to create a Power BI dashboard system.
-
-
-The ability to learn quickly
-  Completed Ruby course and 25 ruby based problems on exercism
-  Replaced a bunch of excel based data manipulations with a Python Pandas solution based on a python course that I completed.
-
-Worked efficiently with different cultures and skillsets in a high pressure project environment. 
+**Passion for problem solving and learning every day**📚
+* Worked efficiently with different cultures and skillsets in a high pressure project environment. 
 
 Courses that I have done:
+
+Ruby
+* [Exercism Profile](https://exercism.org/profiles/mannixcom)
 
 Power BI Courses
 * [Mastering DAX](https://www.sqlbi.com/p/mastering-dax-video-course/)
