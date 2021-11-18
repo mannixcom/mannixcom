@@ -12,7 +12,7 @@ A curious and motivated professional with excellent problem solving skills, will
 **Fullstack developer**🌈
  * Ruby code skills
  * SQL database experience
- * CUrrently working on [BackForWeekend.com](https://www.backfortheweekend.com)
+ * Currently working on [BackForWeekend.com](https://www.backfortheweekend.com)
 
 **Transferable Professional Skills** 💻
 * Experience working with Oracle Databases and Data Analysis
