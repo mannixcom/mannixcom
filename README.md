@@ -17,7 +17,7 @@ A curious and motivated professional with excellent problem solving skills, will
 **Transferable Professional Skills** 💻
 * Experience working with Oracle Databases and Data Analysis
 * I have developed a reporting system based on two oracle databases and used the data to create a Power BI dashboard system.
-* Setup-up and trained collegues on agile project management practices. 
+* Setup-up and trained colleagues on agile project management practices. 
 
 **Passion for problem solving and learning every day**📚
 * Worked efficiently with different cultures and skillsets in a high pressure project environment. 
