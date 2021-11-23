@@ -16,7 +16,7 @@ A curious and motivated professional with excellent problem solving skills, will
  * Currently working on [BackForWeekend.com](https://www.backfortheweekend.com)
 
 **Transferable Professional Skills** 💻
-* 9 years experience working with Oracle Databases and Data Analysis tools
+* 9 years experience working with Oracle databases and data analysis tools
 * BI dashboard design and implementation 
 * Agile project management practicioner
 * Skilled communicator, comfortable across disciplines, cultures, and skillsets
