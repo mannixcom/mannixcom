@@ -18,11 +18,10 @@ A curious and motivated professional with excellent problem solving skills, will
 * 9 years experience working with Oracle Databases and Data Analysis tools
 * BI dashboard design and implementation 
 * Agile project management practicioner
+* Skilled communicator mulitdisciplinary teams, cultural competency 
 
 **Passion for problem solving and learning every day**📚
-* Worked efficiently with different cultures and skillsets in a high pressure project environment. 
-
-Courses that I have done:
+* Courses that I have done:
 
 Ruby
 * [Exercism Profile](https://exercism.org/profiles/mannixcom)
