@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Mannix
 
 I’m a project engineering specialist who is pivoting to web developement.  
+
 Working on apps such as [BackForWeekend.com](https://www.backfortheweekend.com) and others.
 * Ruby on Rails-based app using React for frontend, RSpec for testing and Chef for provisioning
 * Daily collaboration and code pairing with a team of senior software engineers and product designers
