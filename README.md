@@ -9,7 +9,7 @@ I’ve been part of some pretty cool projects. Here are a few that are close to 
 
 ### 🌊 Cove Report 🌊
 - 🌐 [Cove Report](https://cove-tracker.vercel.app/)
-- 📝 Living by a breathtaking cove in the stunning County Waterford, I enjoy nature's spectacle daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
+- 📝 Living by a cove in the stunning County Waterford, I enjoy nature's spectacle daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
 
 ### 🌟 Back for the Weekend 🌟
 - 🌐 [backforweekend.com](https://backforweekend.com/)
