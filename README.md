@@ -16,11 +16,11 @@ I’ve been part of some pretty cool projects. Here are a few that are close to 
 - 🔧 This is a nifty little project I created alongside my sibling (a Rails wizard 🧙) and my talented sister-in-law, a UX designer at Facebook! We built a site that aggregates flight data 🛫, using a Ruby on Rails backend and a sleek React frontend.
 
 ### 🌱 Future Planet 🌱
-- 🌐 [Link to Future Planet](https://futureplanet.com/product) *(Replace with the actual link if available)*
+- 🌐 [Link to Future Planet](https://futureplanet.com/product)
 - 🔧 Future Planet is a climate tech startup ⚡ that helps corporations manage their climate reporting obligations. The tech stack comprises Angular for the frontend and NestJS for the backend, all with a touch of TypeScript! Our fantastic team presented bi-weekly updates to our client. 🌍💼
 
 ### 🛫 Inspire Group 🛫
-- 🌐 [Link to Inspire Group](https://www.usit.ie/) *(Replace with the actual link if available)*
+- 🌐 [Link to Inspire Group](https://www.usit.ie/)
 - 🔧 Inspire Group is an amazing travel conglomerate. The mission was to create a unified backend using Strapi and a Next.js frontend to generate each brand’s specific website. Plus, we pushed the content to an AWS-based CDN to keep it lightning-fast ⚡ and close to the user! I collaborated with a designer and two other developers in two-week sprint cycles.
 
 ## Wrapping it Up 🎁
