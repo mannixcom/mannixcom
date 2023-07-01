@@ -4,7 +4,7 @@ I work closely with an all-star ⭐, cross-functional team comprising engineers,
 
 *Ardanis* is where innovation happens! We're a technology consultancy making waves 🌊 in Dublin. Our clientele is as diverse as it gets, ranging from banking 💰 and insurance 📑 to mining ⛏️, travel 🌴, and climate tech 🌳. We’re all about cutting-edge frameworks, Test-Driven Development, and Agile Project Management.
 
-## 🎨 My Portfolio 🎨
+##  My Portfolio 
 I’ve been part of some pretty cool projects. Here are a few that are close to my heart ❤️:
 
 ### 🌊 Cove Report 🌊
