@@ -7,14 +7,6 @@ I work closely with an all-star ⭐, cross-functional team comprising engineers,
 ##  My Portfolio 
 I’ve been part of some pretty cool projects. Here are a few that are close to my heart ❤️:
 
-### 🌊 Cove Report 🌊
-- 🌐 [Cove Report](https://cove-tracker.vercel.app/)
-- 📝 Living by a cove in the stunning County Waterford, I enjoy nature's spectacle daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
-
-### 🌟 Back for the Weekend 🌟
-- 🌐 [backforweekend.com](https://backforweekend.com/)
-- 🔧 This is a nifty little project I created alongside my sibling (a Rails wizard 🧙) and my talented sister-in-law, a UX designer at Facebook! We built a site that aggregates flight data 🛫, using a Ruby on Rails backend and a sleek React frontend.
-
 ### 🌱 Future Planet 🌱
 - 🌐 [Link to Future Planet](https://futureplanet.com/product)
 - 🔧 Future Planet is a climate tech startup ⚡ that helps corporations manage their climate reporting obligations. The tech stack comprises Angular for the frontend and NestJS for the backend, all with a touch of TypeScript! Our fantastic team presented bi-weekly updates to our client. 🌍💼
@@ -22,6 +14,14 @@ I’ve been part of some pretty cool projects. Here are a few that are close to 
 ### 🛫 Inspire Group 🛫
 - 🌐 [Link to Inspire Group](https://www.usit.ie/)
 - 🔧 Inspire Group is an amazing travel conglomerate. The mission was to create a unified backend using Strapi and a Next.js frontend to generate each brand’s specific website. Plus, we pushed the content to an AWS-based CDN to keep it lightning-fast ⚡ and close to the user! I collaborated with a designer and two other developers in two-week sprint cycles.
+
+### 🌊 Cove Report 🌊
+- 🌐 [Cove Report](https://cove-tracker.vercel.app/)
+- 📝 Living by a cove in the stunning County Waterford, I enjoy nature's spectacle daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
+
+### 🌟 Back for the Weekend 🌟
+- 🌐 [backforweekend.com](https://backforweekend.com/)
+- 🔧 This is a nifty little project I created alongside my sibling (a Rails wizard 🧙) and my talented sister-in-law, a UX designer at Facebook! We built a site that aggregates flight data 🛫, using a Ruby on Rails backend and a sleek React frontend.
 
 ## Wrapping it Up 🎁
 I love what I do, and I’m always on the lookout for new challenges and opportunities to grow 🌱. So, if you want to talk tech, projects, or just life in general, don't hesitate to reach out! Let's build something amazing together! 🚀
