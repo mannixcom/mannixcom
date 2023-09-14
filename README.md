@@ -1,11 +1,11 @@
 Hello there! 😃 My name is Mannix, and I'm a Frontend Developer 🖥️. I am passionate about coding and love to build splendid user interfaces. Angular and React are my daily took-kit, and you can find me juggling components, hooks, and services! 🤹‍♂️
 
-I work closely with an all-star ⭐, cross-functional team comprising engineers, product managers, and rockstar designers. We're big believers in Test-Driven Development 🧪 and strive to build software that's both reliable and easy on the eyes.
+I work closely with a cross-functional team comprising engineers, product managers, and rockstar designers. We're big believers in Test-Driven Development 🧪 and strive to build software that's both reliable and easy on the eyes.
 
-*Ardanis* is where innovation happens! We're a technology consultancy making waves 🌊 in Dublin. Our clientele is as diverse as it gets, ranging from banking 💰 and insurance 📑 to mining ⛏️, travel 🌴, and climate tech 🌳. We’re all about cutting-edge frameworks, Test-Driven Development, and Agile Project Management.
+*Ardanis* is a technology consultancy based in Dublin. Our clientele is as diverse as it gets, ranging from banking 💰 and insurance 📑 to mining ⛏️, travel 🌴, and climate tech 🌳. We’re all about cutting-edge frameworks, Test-Driven Development, and Agile Project Management.
 
 ##  My Portfolio 
-I’ve been part of some pretty cool projects. Here are a few that are close to my heart ❤️:
+I’ve been part of some interesting projects. Here are a few that are close to my heart ❤️:
 
 ### 🌱 Future Planet 🌱
 - 🌐 [Link to Future Planet](https://futureplanet.com/product)
@@ -17,7 +17,7 @@ I’ve been part of some pretty cool projects. Here are a few that are close to 
 
 ### 🌊 Cove Report 🌊
 - 🌐 [Cove Report](https://cove-tracker.vercel.app/)
-- 📝 Living by a cove in the stunning County Waterford, I enjoy nature's spectacle daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
+- 📝 Living by a cove in the stunning County Waterford, I enjoy nature's beauty daily. But, as a tech enthusiast, I wanted a tech spin on it! Thus was born *Cove Report* - a Next.js application that keeps me updated with real-time tide 🌊 and weather 🌤️ information right from the comfort of my home. With this project, I brought the outdoors, indoors! 
 
 ### 🌟 Back for the Weekend 🌟
 - 🌐 [backforweekend.com](https://backforweekend.com/)
